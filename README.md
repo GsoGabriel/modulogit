@@ -3,6 +3,9 @@ Meu primeiro sistema no GIT.
 Alterar o que quiser (atualizado e revisado)
 Agora adicionei uma pasta e um arquivo js dentro da pasta
 
+Aqui eu coloquei uma nova funcionalidade
+
+
 Alteração feita na branch MASTER.
 
 **Minhas anotações sobre como usar o GIT e o GITHUB**  
