@@ -1,6 +1,7 @@
 Meu primeiro sistema no GIT.
 
 Alterar o que quiser (atualizado e revisado)
+Agora adicionei uma pasta e um arquivo js dentro da pasta
 
 Alteração feita na branch MASTER.
 
