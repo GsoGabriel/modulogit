@@ -1,6 +1,6 @@
 Meu primeiro sistema no GIT.
 
-Alterar o que quiser
+Alterar o que quiser (atualizado e revisado)
 
 Alteração feita na branch MASTER.
 
